@@ -1,5 +1,10 @@
-### Hi there 👋
+# Hi there 👋
 
+Introduce my name **Muhammad Salman Al Farisy**
+
+I'm student at Ahmad Dahlan University, specializing in Informatics Engineering.
+
+If you're interested in getting to know me, please follow the account [Instagram] (https://www.instagram.com/salmanfaris_06).
 <!--
 **salmanfaris06/salmanfaris06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
