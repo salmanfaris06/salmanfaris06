@@ -1,10 +1,18 @@
-# Hi there 👋
+### Hi there 👋
 
 Introduce my name **Muhammad Salman Al Farisy**
 
 I'm student at Ahmad Dahlan University, specializing in Informatics Engineering.
 
 If you're interested in getting to know me, please follow the account [Instagram](https://www.instagram.com/salmanfaris_06) me.
+
+### Github Statistic 🌻
+<p align="left">
+<a href="https://github.com/salmanfaris06">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=salmanfaris06&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=salmanfaris06&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 <!--
 **salmanfaris06/salmanfaris06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
