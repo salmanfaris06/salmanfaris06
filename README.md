@@ -4,7 +4,7 @@ Introduce my name **Muhammad Salman Al Farisy**
 
 I'm student at Ahmad Dahlan University, specializing in Informatics Engineering.
 
-If you're interested in getting to know me, please follow the account [Instagram](https://www.instagram.com/salmanfaris_06) me.
+If you're interested in getting to know me, please follow the account [Instagram](https://www.instagram.com/salmanfaris_06) and [Linkedin](https://www.linkedin.com/in/muhammad-salman-al-farisy-164615221/) me.
 
 ### Github Statistic 🌻
 <p align="left">
